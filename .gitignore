@@ -3,11 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
-
+# misc
 *.in
 *.out
+basics/
+logging-test/
+
+# C extensions
+*.so
 
 # Distribution / packaging
 .Python
