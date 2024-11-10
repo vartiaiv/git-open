@@ -8,6 +8,7 @@ __pycache__/
 *.out
 basics/
 logging-test/
+another-logging-test/
 
 # C extensions
 *.so
