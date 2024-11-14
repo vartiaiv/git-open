@@ -6,10 +6,8 @@ __pycache__/
 # misc
 *.in
 *.out
-basics/
 logging-test/
 another-logging-test/
-advanced-repo
 
 # C extensions
 *.so
